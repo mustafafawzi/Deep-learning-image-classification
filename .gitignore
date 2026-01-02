@@ -1,0 +1,9 @@
+# Virtual environment
+.venv/
+venv/
+
+# Images
+*.png
+
+# SLURM files
+*.slurm
