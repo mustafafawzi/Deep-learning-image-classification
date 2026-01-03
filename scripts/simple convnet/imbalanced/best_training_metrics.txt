@@ -1,0 +1,10 @@
+=== BEST METRICS SUMMARY ===
+Best val_loss epoch: 11
+  train_loss: 0.3223
+  val_loss  : 0.3474
+  train_acc : 0.8494
+  val_acc   : 0.8580
+
+Best val_accuracy epoch: 11
+  val_accuracy: 0.8580
+  val_loss    : 0.3474

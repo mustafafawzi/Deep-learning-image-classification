@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+     Picasso      0.964     0.813     0.882       230
+      Rubens      0.691     0.932     0.793       103
+
+    accuracy                          0.850       333
+   macro avg      0.827     0.873     0.838       333
+weighted avg      0.879     0.850     0.855       333
